@@ -1,4 +1,4 @@
-# Pranavi's First CS193 Homework
+# Pranavi's First CS 193 Homework
 
 - Learning more about the basics of CS
 - Meeting new people and making friends
